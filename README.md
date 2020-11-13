@@ -4,7 +4,9 @@
 
 This project consists of a implementation of how to solve the Doom environment using Reinforcement learning methods named Deep Q Learning and Dueling Deep Q Learning  .
 
-![Dueling Deep Q Model](support/DDQN.jpg)
+Dueling Deep Q Model
+
+![](support/DDQN.jpg)
 
 
 
@@ -35,6 +37,8 @@ go through above notebook to understand how we use solve doom environment .
 ## Results
 
 * Results from solved environment .
+
+![](support/results.mp4)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
