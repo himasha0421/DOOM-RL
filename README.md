@@ -36,9 +36,7 @@ go through above notebook to understand how we use solve doom environment .
 
 ## Results
 
-* Results from solved environment .
-
-![](support/results.mp4)
+* Results from solved environment [video file](support/results.mp4) .
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
